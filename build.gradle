@@ -32,7 +32,7 @@ buildscript {
 
 group = "com.electriccloud"
 description = "Plugins : EC-Gerrit"
-version = "2.1.5"
+version = "2.1.6"
 
 apply plugin: 'flow-gradle-plugin'
 repositories {
