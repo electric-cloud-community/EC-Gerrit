@@ -26,6 +26,7 @@
   <author>Electric Cloud</author>
   <authorUrl>http://www.electric-cloud.com/support</authorUrl>
   <category>Code Analysis</category>
+  <repositoryUrl>https://github.com/electric-cloud-community/EC-Gerrit</repositoryUrl>
   <commander-version min="3.6"/>
   <components>
     <component name="ConfigurationManagement">
